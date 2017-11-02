@@ -1,5 +1,5 @@
 # Pacman-AI-Contest
-This repository holds the recording related to my team, It_Depends, in RMITs AI pacman contest of semester 1 2017. 
+This repository holds the recording related to my team, It_depends, in RMITs AI pacman contest of semester 1 2017. 
 Due to restrictions from the host, UC Berkeley I am unable to share the code used to create the team. as such I am hosting the recording and the code provided by UC Berkeley to view the replays.
 Original contest design and specifications are available at http://ai.berkeley.edu/contest.html
 
@@ -11,7 +11,7 @@ You can replay these histories using the --replay option and specifying the file
 You are also able to download the history associated with each replay, they are located in the corresponding .log file. 
 
 ### Contest Results
-In this contest my team came a very close second. The team standings were as follows
+In this contest my team, It_depends came a very close second. The team standings were as follows
 
 | Team            | Points | Win | Tie | Lost | FAILED | Score Balance |
 |-----------------|--------|-----|-----|------|--------|---------------|
