@@ -12,6 +12,7 @@ You are also able to download the history associated with each replay, they are 
 
 ### Contest Results
 In this contest my team came a very close second. The team standings were as follows
+
 | Team            | Points | Win | Tie | Lost | FAILED | Score Balance |
 |-----------------|--------|-----|-----|------|--------|---------------|
 | BetaGo          | 930    | 306 | 12  | 23   | 3      | 4258          |
