@@ -5,6 +5,9 @@ Original contest design and specifications are available at http://ai.berkeley.e
 
 All Replays relating to my team in the final of the RMIT 2017 constest are in the replays directory. 
 
+### Inter-University Contest
+Since the initial challenage in 2017 this contest has born an inter university contest, details of contest and the results can be found at https://sites.google.com/view/pacman-capture-hall-fame/. It_depends has remained a strong competitor between the first inter university contest between Melbourne University and RMIT students. 
+
 ## Viewing the replays
 You can replay these histories using the --replay option and specifying the file to replay.
 `python capture.py --replay replayFileName.replay`
